@@ -102,7 +102,7 @@ h1{
          <h1>Welcome to Devops-Shopping</h1>
     </section>    
     <section id="about"><h1>This Is About</h1></section>
-    <section id="product"><h1>This Is Product</h1></section>
+    <section id="product"><h1>This Is kam</h1></section>
     <section id="pricing"><h1>This Is Mohsin</h1></section>
     <section id="contact"><h1>This Is Contact</h1></section>
 
